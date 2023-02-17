@@ -60,4 +60,5 @@ The dealis of Part 2 - CSS Games will be announced on Monday after guest lecture
 
 The people on this group is:
 Jørgen Nonstad
+I am not in his group, but for this exercise I am.
 
