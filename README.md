@@ -7,6 +7,7 @@ Part 1 - Designing for Animation (and Assignment 3)
 
 Part 2 - Introduction to GitHub and CSS Game
 
+HELLO WORLD
 
 
 Part 1 - Designing for Animation 
@@ -56,4 +57,7 @@ group members should create individual branches per feature (what are pull reque
 pull request should be reviewed and approved by group members (how to request pull request review, what is request review)
 the owner of the branch should merge their branch to the master branch after applying PR comments (how to merge changes)
 The dealis of Part 2 - CSS Games will be announced on Monday after guest lecture from NRK (the guest lecture is on 2nd of March).
+
+The people on this group is:
+Jørgen Nonstad
 
